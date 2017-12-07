@@ -1,0 +1,6 @@
+<resources>
+    <string name="search_title">Search...</string>
+    <string name="app_name">Collapsing toolbar</string>
+    <string name="search_hint">Search here</string>
+    <string name="new_contact">New Contact</string>
+</resources>
